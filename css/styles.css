@@ -1,0 +1,20 @@
+body {
+ 
+
+
+}
+
+
+
+.navbar-nav  li {
+border: 1px rgb(202, 196, 196) solid;
+background-color: beige;
+
+}
+
+.box{
+background-color: antiquewhite;
+height: 1000px;
+margin: 25px 0px;
+display: block;
+}
